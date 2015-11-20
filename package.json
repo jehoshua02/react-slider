@@ -1,0 +1,23 @@
+{
+  "name": "react-slider",
+  "version": "1.0.0",
+  "description": "My take on building a slider in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Stoutenburg <jehoshua02@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehoshua02/react-slider.git"
+  },
+  "keywords": [
+    "react",
+    "slider"
+  ],
+  "bugs": {
+    "url": "https://github.com/jehoshua02/react-slider/issues"
+  },
+  "homepage": "https://github.com/jehoshua02/react-slider#readme"
+}
